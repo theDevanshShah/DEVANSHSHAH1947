@@ -2,7 +2,7 @@
 I'm a self-taugh coder from India. 
 Currently I'm Doing🎓 My Bachelor's in BCA
 from 🏫 Saint Xavier's College, Ahmedabad (Gujarat) I am currently focused on fullstack web development , with  a passion for MACHINE LEARNING & AI. 👨🏻‍💻 I love learning new technologies & programming languages and increasing the extenct of my skillset. 
-<Hr>I am a diligent coder with a penchant for delivering quality work which is visible in everything I do. </h3>
+<Hr>I am a diligent coder with a penchant for delivering quality work which is visible in everything I do. 🥀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshshah1947&label=Profile%20views&color=0e75b6&style=flat" alt="devanshshah1947" /> </p>
 
 
