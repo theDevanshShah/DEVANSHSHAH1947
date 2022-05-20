@@ -1,14 +1,14 @@
-<h3 align="center" color="red">Hi 👋, I am Devansh Shah. I'm a self-taught coder from India. Currently I'm Doing🎓 My Bachelor's in BCA from 🏫 Saint Xavier's College, Ahmedabad (Gujarat). I am currently focused on fullstack web development , with  a passion for MACHINE LEARNING & AI. I love learning new technologies & programming languages and increasing the extenct of my skillset</h3>
-. I am a diligent coder with a penchant for delivering quality work which is visible in everything I do.
+<h3 align="center">Hi 👋, I am Devansh Shah. I'm a self-taugh coder from India. Currently I'm Doing🎓 My Bachelor's in BCA from 🏫 Saint Xavier's College, Ahmedabad (Gujarat).I am currently focused on fullstack web development , with  a passion for MACHINE LEARNING & AI. I love learning new technologies & programming languages and increasing the extenct of my skillset
+. I am a diligent coder with a penchant for delivering quality work which is visible in everything I do. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshshah1947&label=Profile%20views&color=0e75b6&style=flat" alt="devanshshah1947" /> </p>
 
 
 
-- 🔭 Currently I'm learning **React.Js**
+🔭 Currently I'm learning **React.Js**
 
-- 📫 How to reach me **https://linktr.ee/devansh_shah**
+📫 How to reach me **https://linktr.ee/devansh_shah**
 
-- ⚡ Fun fact **💖I Love Pressing the F5 key....Bcoz It's Refreshing😂🙌**
+⚡ Fun fact **I Love Pressing the F5 key....Bcoz It's Refreshing 🤭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
