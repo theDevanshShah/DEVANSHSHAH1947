@@ -1,16 +1,14 @@
-<h3 align="center">Hi 👋, I am Devansh Shah. I'm A passionate frontend developer from India. Currently I'm Doing🎓 My Bachelor's in BCA from 🏫 Saint Xavier's College, Ahmedabad (Gujarat).</h3>
-
+<h3 align="center">Hi 👋, I am Devansh Shah. I'm a self-taught coder from India. Currently I'm Doing🎓 My Bachelor's in BCA from 🏫 Saint Xavier's College, Ahmedabad (Gujarat). I am currently focused on fullstack web development , with  a passion for **MACHINE LEARNING** & **AI** . I love learning new technologies & programming languages and increasing the extenct of my skillset</h3>
+. I am a diligent coder with a penchant for delivering quality work which is visible in everything I do.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshshah1947&label=Profile%20views&color=0e75b6&style=flat" alt="devanshshah1947" /> </p>
 
 
 
-- 🔭 I’m currently working on **Live Covid Cases App By API **
+- 🔭 Currently I'm learning **React.Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DEVANSHSHAH1947/](https://github.com/DEVANSHSHAH1947/)
+- 📫 How to reach me **https://linktr.ee/devansh_shah**
 
-- 📫 How to reach me **devlabdhishah@gmail.com**
-
-- ⚡ Fun fact **💖I Love Pressing the F5️⃣ key....Bcoz It's Refreshing😂🙌**
+- ⚡ Fun fact **💖I Love Pressing the F5 key....Bcoz It's Refreshing😂🙌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
