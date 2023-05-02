@@ -1,13 +1,17 @@
-<h1 align="left">Hi,I'm Devansh Shah</h1><h3 align="center">
-I'm a self-taugh coder from India. 
-Currently I'm Doing🎓 My Bachelor's in BCA
-from 🏫 Saint Xavier's College, Ahmedabad (Gujarat) I am currently focused on fullstack web development , with  a passion for MACHINE LEARNING & AI. 👨🏻‍💻 I love learning new technologies & programming languages and increasing the extenct of my skillset. 
-<Hr>I am a diligent coder with a penchant for delivering quality work which is visible in everything I do. 🥀</h3>
+<h1 align="left">Hi,I'm Devansh Shah 👋</h1><h3 align="center">
+I'm a self-taught coder from India, currently focused on fullstack web development with a passion for machine learning and AI. I completed my Bachelor's in BCA from Saint Xavier's College, Ahmedabad (Gujarat) and have been honing my skills as a programmer ever since.
+
+I love learning new technologies and programming languages, and I'm constantly pushing the boundaries of what I can do. Whether it's developing an intuitive user interface or implementing complex machine learning algorithms, I'm always up for a challenge.
+
+<Hr>
+As a diligent coder, I have a keen eye for detail and a penchant for delivering quality work that exceeds expectations. I'm a strong believer in the power of collaboration, and I'm always looking for opportunities to work with others and learn from their expertise.
+
+If you're looking for a dedicated and talented programmer to join your team, look no further than me. Let's connect and see how we can work together to bring your vision to life!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshshah1947&label=Profile%20views&color=0e75b6&style=flat" alt="devanshshah1947" /> </p>
 
 
 
-🔭 Currently I'm learning **React.Js**
 
 📫 How to reach me **https://linktr.ee/devansh_shah**
 
